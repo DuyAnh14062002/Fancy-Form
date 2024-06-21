@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7528],{7528:(a,s,c)=>{a.exports=c.p+"static/media/CELO.15da0c2b35a7363d231d.svg"}}]);

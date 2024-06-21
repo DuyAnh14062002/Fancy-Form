@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1910],{1910:(c,s,e)=>{c.exports=e.p+"static/media/stSAGA.20c53c889610cc5ce118.svg"}}]);

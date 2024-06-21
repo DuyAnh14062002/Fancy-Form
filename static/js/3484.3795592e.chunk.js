@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3484],{3484:(c,e,s)=>{c.exports=s.p+"static/media/HBAR.4d39cb41015c4eb0da93.svg"}}]);

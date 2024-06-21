@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3381],{3381:(c,a,e)=>{c.exports=e.p+"static/media/CEL.8aa87cb19cc5638eb48d.svg"}}]);

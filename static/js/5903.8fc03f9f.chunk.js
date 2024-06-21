@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[5903],{5903:(e,f,s)=>{e.exports=s.p+"static/media/KFLOKI.681835ca006f861311fe.svg"}}]);

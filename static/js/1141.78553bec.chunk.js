@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1141],{1141:(e,a,f)=>{e.exports=f.p+"static/media/NETA.fa4811b61e3d77efadc7.svg"}}]);

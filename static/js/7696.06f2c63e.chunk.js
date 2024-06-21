@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7696],{7696:(e,s,a)=>{e.exports=a.p+"static/media/BLOX.545170b46d1489d2e794.svg"}}]);

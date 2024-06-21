@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3621],{3621:(f,e,s)=>{f.exports=s.p+"static/media/MIR.efbf54d1838f98602ffa.svg"}}]);

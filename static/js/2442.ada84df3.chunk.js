@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2442],{2442:(f,a,e)=>{f.exports=e.p+"static/media/KPEPE.54f4f15616a1bbe6a7fd.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9655],{9655:(f,e,s)=>{f.exports=s.p+"static/media/SAFEMOON.96f570124ef81f4975c4.svg"}}]);
