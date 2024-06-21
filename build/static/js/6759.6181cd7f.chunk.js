@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[6759],{6759:(a,s,e)=>{a.exports=e.p+"static/media/ORNE.2534406621a9fbb06a35.svg"}}]);

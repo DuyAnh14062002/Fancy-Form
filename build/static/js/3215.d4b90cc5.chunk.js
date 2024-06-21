@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3215],{5596:(f,s,a)=>{f.exports=a.p+"static/media/BELT.387392f2430dcdd3fda3.svg"}}]);

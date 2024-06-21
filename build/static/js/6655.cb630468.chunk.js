@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[6655],{6655:(e,f,s)=>{e.exports=s.p+"static/media/MEME.bf35cd8f4968464a41e5.svg"}}]);

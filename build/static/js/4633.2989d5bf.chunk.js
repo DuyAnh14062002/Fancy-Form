@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4633],{4633:(e,s,a)=>{e.exports=a.p+"static/media/PENDLE.4da6909490f606899ce8.svg"}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9835],{9835:(e,c,f)=>{e.exports=f.p+"static/media/NEX.564064befc031e3fc253.svg"}}]);

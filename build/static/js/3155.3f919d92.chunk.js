@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3155],{3155:(a,f,s)=>{a.exports=s.p+"static/media/ROAR.9a5d99d89f7f22bda8b9.svg"}}]);

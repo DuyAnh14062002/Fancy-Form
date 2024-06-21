@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1804],{1804:(a,s,e)=>{a.exports=e.p+"static/media/stLUNA.adb5f41e00819dada864.svg"}}]);

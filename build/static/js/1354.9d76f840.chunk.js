@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1354],{1354:(e,c,s)=>{e.exports=s.p+"static/media/QCK.953b6decd5d5c2fd8ea6.svg"}}]);

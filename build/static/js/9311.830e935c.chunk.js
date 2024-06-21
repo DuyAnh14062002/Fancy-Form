@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9311],{9311:(a,e,c)=>{a.exports=c.p+"static/media/SWTH-LEGACY.ab10f5a0de1ecca15d07.svg"}}]);
