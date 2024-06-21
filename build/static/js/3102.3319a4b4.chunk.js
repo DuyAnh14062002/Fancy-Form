@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3102],{3102:(e,s,c)=>{e.exports=c.p+"static/media/YieldUSD.ed822632f6dcbb417682.svg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[911],{911:(e,s,a)=>{e.exports=a.p+"static/media/Grouped USD.05487a73eece304ddf60.svg"}}]);

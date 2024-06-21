@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[3422],{3422:(a,s,e)=>{a.exports=e.p+"static/media/KAS.9abbfd352a9659a84006.svg"}}]);

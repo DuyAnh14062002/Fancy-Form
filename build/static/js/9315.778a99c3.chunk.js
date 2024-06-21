@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9315],{9315:(f,e,s)=>{f.exports=s.p+"static/media/VRTX.d873ef28f71f9ab27fc7.svg"}}]);
