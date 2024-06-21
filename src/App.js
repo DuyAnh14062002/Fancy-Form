@@ -1,4 +1,4 @@
-import MainForm from "./components/MainForm.jsx";
+import MainForm from "./components/MainForm.js";
 
 function App() {
   return (
