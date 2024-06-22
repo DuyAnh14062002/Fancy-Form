@@ -89,7 +89,7 @@ export default function MainForm() {
        setCurrencies(listCurrencyMap)
   }
   const iconFetch = async (iconName) => {
-    await import(`/images/tokens/${iconName}.svg`)
+    await import(`../../public/images/tokens/${iconName}.svg`)
     .then(data => setCurrencies(prev=>{
       return prev.map(item=>{
         if(item.currency===iconName){
