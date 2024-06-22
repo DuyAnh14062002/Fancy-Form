@@ -89,7 +89,7 @@ export default function MainForm() {
        setCurrencies(listCurrencyMap)
   }
   const iconFetch = async (iconName) => {
-    await import(`../assets/tokens/${iconName}.svg`)
+    await import(`/images/tokens/${iconName}.svg`)
     .then(data => setCurrencies(prev=>{
       return prev.map(item=>{
         if(item.currency===iconName){
@@ -116,6 +116,7 @@ export default function MainForm() {
    const notify = () => {
     toast.success("successful transaction")
    }
+   console.log("currency : ", currencies)
   return (
     <>
       <div className="container-fancy-form">
