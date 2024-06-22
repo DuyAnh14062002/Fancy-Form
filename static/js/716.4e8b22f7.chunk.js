@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[716],{716:(e,f,s)=>{e.exports=s.p+"static/media/FEES.c99020b86f674633e7f2.svg"}}]);

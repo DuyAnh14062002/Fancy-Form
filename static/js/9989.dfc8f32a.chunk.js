@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9989],{9989:(e,s,c)=>{e.exports=c.p+"static/media/SAND.d8e9b85277c526e1b81e.svg"}}]);

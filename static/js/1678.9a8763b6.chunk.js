@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1678],{1678:(e,c,s)=>{e.exports=s.p+"static/media/FLIX.b29bcd8f267b1ee8bce7.svg"}}]);

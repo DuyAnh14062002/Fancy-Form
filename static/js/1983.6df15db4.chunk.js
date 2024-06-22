@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[1983],{1983:(e,s,a)=>{e.exports=a.p+"static/media/EUROC.d314631e01a9955d965d.svg"}}]);

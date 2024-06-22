@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[7187],{7187:(a,c,s)=>{a.exports=s.p+"static/media/SHIB.a07a22fbbc9842c3b349.svg"}}]);

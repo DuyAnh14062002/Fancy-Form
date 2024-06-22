@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[713],{713:(c,e,s)=>{c.exports=s.p+"static/media/ANKR.e8bbd1a82121f4c6c907.svg"}}]);

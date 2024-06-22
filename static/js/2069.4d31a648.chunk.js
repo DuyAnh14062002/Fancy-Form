@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2069],{2069:(e,s,a)=>{e.exports=a.p+"static/media/AKT.419d477765385903ef9a.svg"}}]);

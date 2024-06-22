@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[9676],{9676:(e,s,c)=>{e.exports=c.p+"static/media/PLQ.645830ec397322832198.svg"}}]);

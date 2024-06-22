@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2879],{2879:(e,f,s)=>{e.exports=s.p+"static/media/SLERF.e42d3f58fe5b5c8f2bb5.svg"}}]);

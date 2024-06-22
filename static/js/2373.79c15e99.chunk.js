@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[2373],{2373:(c,a,s)=>{c.exports=s.p+"static/media/NTRN.c14c6abd6ac86c5680c2.svg"}}]);

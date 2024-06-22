@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkfancy_form=self.webpackChunkfancy_form||[]).push([[4751],{4751:(a,e,f)=>{a.exports=f.p+"static/media/USDT.a5fed119126afc88a882.svg"}}]);
